@@ -43,8 +43,8 @@ export class AppController {
 
   /**
    * 阿里云oos
-   * AccessKeyID：LTAI4GB4nyWHALGVyjHg5ehv
-   * AccessKeySecret：Q72NsuVlAzCuQZ8mgyzgT53aXDhAoB
+   * AccessKeyID：*****
+   * AccessKeySecret：*****
    * 
    * <form action="http://localhost:3000/upload" method="post" enctype="multipart/form-data">
    *    <input type="file" name="file" id="" />
