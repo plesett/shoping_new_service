@@ -16,9 +16,9 @@ export const options={
 // 阿里云oos
 export const AliOOS = {
     region: 'oss-cn-hangzhou',
-    accessKeyId: 'LTAI4GFRZjcpjHCdyTLf5YLs',
-    accessKeySecret: '790tylA5p2bT7UG92Zm6sTuqXinzpj',
-    bucket: 'shopyg'
+    accessKeyId: '********',
+    accessKeySecret: '*******',
+    bucket: '*****'
 }
 
 // 腾讯位置服务 // https://lbs.qq.com/service/webService/webServiceGuide/webServiceIp
